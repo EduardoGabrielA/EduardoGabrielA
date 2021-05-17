@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Gabriel Arévalo, I’m Electronic Engineer.
+- 👋 Hi, I’m Eduardo Gabriel Arévalo, I’m a Electronic Engineer.
 - 👀 I’m interested in DevOps, Web Development, AWS, Azure, Cloud.
 - 🌱 I’m currently learning Ansible, Docker, Terraform, Python
 - 💞️ I’m looking to collaborate on anything I can contribute 😂😂. I just want my skills to be able to contribute significantly, and grow professionally and personally :pray:
